@@ -39,7 +39,7 @@ int main(int argc, char **argv) {
 
     if (kDown & KEY_Y) {
       printf("\nIf you're in a hard spot right now just know that there are "
-             "better times ahead <3 ");
+             "\nbetter times ahead <3 ");
     }
 
     if (kDown & KEY_L) {
