@@ -1,2 +1,2 @@
-# ur-mom-gay-lol
+# Love for everyone!
 A homebrew that prints love!
